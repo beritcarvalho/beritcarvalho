@@ -4,13 +4,20 @@ Hi 👋 My name is Berit Carvalho
 Systems Analyst and Full Stack Development Student
 -------------------
 
-Systems Analyst with an analytical and results-oriented profile, with more than 2 years of experience in .NET C#. I work at the company T2S Tecnologia, in the port sector, where I developed knowledge in port processes in general.
+Systems Analyst with an analytical and results-oriented profile, with more than 2 years of experience in .NET C#. I work
+at the company T2S Tecnologia, in the port sector, where I developed knowledge in port processes in general.
 I perform code analysis, bug fixing and implementation of improvements and TOS OPUS integration.
-Using technologies such as .NET C#, Entity Framework, AspNet, MVC, WebAPI, Oracle DB Relational Databases, SQLServer and code versioning.delivery).
+Using technologies such as .NET C#, Entity Framework, AspNet, MVC, WebAPI, Oracle DB Relational Databases, SQLServer and
+code versioning.delivery).
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [beritcarvalho@gmail.com](mailto:beritcarvalho@gmail.com)
-* 🚀  I'm currently working on <a href="https://www.t2s.com.br" target="_blank" rel="noreferrer"><img width="42" height="15" src="https://lh5.googleusercontent.com/uBq7Fvo8x3qci-edkmU9KmlU97SO_AYYIVFXItF6KSGZZJdLpU2aJPQthQdfs3F027TgZ_d3zXztGK9fPHOsgeU=w16383" /></a> Performing service for the company <a href="https://www.t2s.com.br" target="_blank" rel="noreferrer"><img width="24" height="15" src="https://github.com/beritcarvalho/beritcarvalho/blob/main/.img/btp.png?raw=true" /></a> Brasil Terminal Portuário
+* 🌍 I'm based in Brazil
+* ✉️ You can contact me at [beritcarvalho@gmail.com](mailto:beritcarvalho@gmail.com)
+* 🚀 I'm currently working on <a href="https://www.t2s.com.br" target="_blank" rel="noreferrer"><img width="42"
+      height="15"
+      src="https://lh5.googleusercontent.com/uBq7Fvo8x3qci-edkmU9KmlU97SO_AYYIVFXItF6KSGZZJdLpU2aJPQthQdfs3F027TgZ_d3zXztGK9fPHOsgeU=w16383" /></a>
+Performing service for the company <a href="https://www.t2s.com.br" target="_blank" rel="noreferrer"><img width="24"
+      height="15" src="https://github.com/beritcarvalho/beritcarvalho/blob/main/.img/btp.png?raw=true" /></a> Brasil
+Terminal Portuário
 
 ### Skills
 
@@ -39,13 +46,19 @@ Using technologies such as .NET C#, Entity Framework, AspNet, MVC, WebAPI, Oracl
    <td><img
          src="https://res.cloudinary.com/practicaldev/image/fetch/s--N6s4ts4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft%2520SQL%2520Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%2520sql%2520server%26logoColor%3Dwhite"
          loading="lazy" width="209" height="28">
-   <img
-      src="https://res.cloudinary.com/practicaldev/image/fetch/s--JKcrdxhK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Elastic_Search-005571%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite"
-      loading="lazy" width="158" height="28">
-   <img
-      src="https://res.cloudinary.com/practicaldev/image/fetch/s--MRXwUmKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"
-      loading="lazy" width="94" height="28">
-   <img
-      src="https://res.cloudinary.com/practicaldev/image/fetch/s--t_ci0avu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite"
-      loading="lazy" width="77" height="28">
+      <img
+         src="https://res.cloudinary.com/practicaldev/image/fetch/s--JKcrdxhK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Elastic_Search-005571%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite"
+         loading="lazy" width="158" height="28">
+      <img
+         src="https://res.cloudinary.com/practicaldev/image/fetch/s--MRXwUmKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"
+         loading="lazy" width="94" height="28">
+      <img
+         src="https://res.cloudinary.com/practicaldev/image/fetch/s--t_ci0avu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite"
+         loading="lazy" width="77" height="28">
+</p>
+
+### Socials
+
+<p align="left"> 
+   <a href="https://www.linkedin.com/in/beritcarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
