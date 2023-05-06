@@ -62,3 +62,26 @@ Terminal Portuário
 <p align="left"> 
    <a href="https://www.linkedin.com/in/beritcarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
+
+### Badges
+
+<a href="https://www.github.com/beritcarvalho" target="_blank" rel="brtcarvalho"><img
+src="https://img.shields.io/github/followers/beritcarvalho?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Contributions
+![Snake animation](https://github.com/beritcarvalho/beritcarvalho/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+**beritcarvalho/beritcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
