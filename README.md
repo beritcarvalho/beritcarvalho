@@ -1,16 +1,13 @@
-### Hi there 👋
-![Snake animation](https://github.com/beritcarvalho/beritcarvalho/blob/output/github-contribution-grid-snake.svg)
-<!--
-**beritcarvalho/beritcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Berit Carvalho
+===============================
 
-Here are some ideas to get you started:
+Systems Analyst and Full Stack Development Student
+-------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems Analyst with an analytical and results-oriented profile, with more than 2 years of experience in .NET C#. I work at the company T2S Tecnologia, in the port sector, where I developed knowledge in port processes in general.
+I perform code analysis, bug fixing and implementation of improvements and TOS OPUS integration.
+Using technologies such as .NET C#, Entity Framework, AspNet, MVC, WebAPI, Oracle DB Relational Databases, SQLServer and code versioning.delivery).
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [beritcarvalho@gmail.com](mailto:beritcarvalho@gmail.com)
+* 🚀  I'm currently working on [T2S](https://www.t2s.com.br/)
